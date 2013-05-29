@@ -1,0 +1,14 @@
+*** Rules of this game ***
+
+Two objects are arranged in opposite corners 
+and move symmetrically relative to the center. 
+Make it so that two objects are met in the center 
+as quickly as possible.
+
+w - go up;
+s - go down;
+a - go left;
+d - go right;
+q - quit from game.
+
+Yoy're the player '1'. The player '2' move symmetrically.
